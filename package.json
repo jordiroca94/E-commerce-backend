@@ -18,6 +18,8 @@
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^6.1.4",
     "nodemon": "^2.0.15",
-    "stripe": "^8.195.0"
+    "react-stripe-checkout": "^2.6.3",
+    "stripe": "^8.195.0",
+    "styled-components": "^5.3.3"
   }
 }
